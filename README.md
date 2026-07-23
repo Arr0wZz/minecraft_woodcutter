@@ -1,5 +1,5 @@
 # Woodcutter
-![Woodcutter](https://cdn.modrinth.com/data/4mWNmfNS/images/7f4d09343506622aca6a9a0c2055131145329917_350.webp)
+![Woodcutter](https://cdn.modrinth.com/data/4mWNmfNS/images/7f4d09343506622aca6a9a0c2055131145329917.png)
 Datapack what allows you make wooden items on stonecutter using any type of logs/wood
 # Recipes
 ![crimson stem](https://cdn.modrinth.com/data/4mWNmfNS/images/60d9583a741d1ecd50775596a9ac95bc7febf8b6.png)
